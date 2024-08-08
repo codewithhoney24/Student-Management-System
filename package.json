@@ -1,0 +1,23 @@
+{
+  "name": "codewithhoney111-student-management-system",
+  "version": "2.0.1",
+  "main": "index.js",
+  "type": "module",
+  "bin": {
+    "codewithhoney111-student-management-system": "index.js"
+  },
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "foo": "^1.0.0",
+    "inquirer": "^9.3.6"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
